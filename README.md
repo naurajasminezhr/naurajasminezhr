@@ -16,19 +16,6 @@
 <a href="https://linkedin.com/in/naura-jasmine-azzahra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naura-jasmine-azzahra" height="30" width="40" /></a>
 </p>
 
-Untuk mengubah konten `Languages and Tools` di README.md Anda agar sesuai dengan teknologi dan alat yang Anda kenal, Anda dapat mengikuti langkah-langkah berikut:
-
-1. **Hapus Konten Lama**:
-   - Hapus konten yang ada di `<h3 align="left">Languages and Tools:</h3>` dan `<p align="left">...</p>`.
-
-2. **Tambahkan Teknologi Baru**:
-   - Tambahkan teknologi dan alat yang Anda kenal, seperti Tableau, Power BI, MySQL, SSMS, SSIS, Pentaho, TensorFlow, Python, Google Cloud Platform, Canva, Azure, PostgreSQL, SAP, Odoo, RStudio, Excel, dan SEM-PLS.
-
-3. **Tambahkan Icon**:
-   - Tambahkan icon untuk setiap teknologi yang Anda kenal. Anda dapat menggunakan situs seperti [Devicon](https://devicon.dev/) untuk mencari icon yang sesuai.
-
-Contoh kode yang telah diperbarui:
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
