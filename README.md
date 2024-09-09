@@ -14,7 +14,7 @@
 </div>
 <br>
 
-👋 Hello. My full name is Naura Jasmine Azzahra, and you can call me ***"Naura"***
+👋 Hello, you can call me ***"Naura"***
 
 ## 🚀 How to reach me:
 
