@@ -16,59 +16,6 @@
 <a href="https://linkedin.com/in/naura-jasmine-azzahra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naura-jasmine-azzahra" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354428%2Ftableau-icon&psig=AOvVaw3tXOZBKK8uqE_HuGqJtag1&ust=1726001242181000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCHqevdtogDFQAAAAAdAAAAABAE)" alt="tableau" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql-server/sql-server-original.svg" alt="ssms" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-bi-developers" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssis/ssis-original.svg" alt="ssis" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.pentaho.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pentaho/pentaho-original.svg" alt="pentaho" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud platform" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
-    </a> 
-    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.sap.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" alt="sap" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" alt="odoo" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="excel" width="40" height="40"/> 
-    </a> 
-  
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naurajasminezhr&show_icons=true&locale=en&layout=compact" alt="naurajasminezhr" /></p>
 
