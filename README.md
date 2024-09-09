@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
+        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354428%2Ftableau-icon&psig=AOvVaw3tXOZBKK8uqE_HuGqJtag1&ust=1726001242181000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCHqevdtogDFQAAAAAdAAAAABAE)" alt="tableau" width="40" height="40"/> 
     </a> 
     <a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> 
@@ -69,12 +69,6 @@
   
 </p>
 
-
-Dengan cara ini, Anda telah memperbarui konten `Languages and Tools` di README.md Anda untuk mencerminkan teknologi dan alat yang Anda kenal.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/627425/e64563f7-d0fe-47de-b1ab-3d4e1846aef6/scrap_and_sentiment_analysis_halodoc_reviews_5026211005_pba.ipynb
-[2] https://www.gnu.org/software/bash/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naurajasminezhr&show_icons=true&locale=en&layout=compact" alt="naurajasminezhr" /></p>
 
